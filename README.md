@@ -51,6 +51,3 @@
 + Send and Receive between groups.
 + Frequency modifying Effects.
 + Delay type Effects.
-
----
-Find out more about our [Unity Certification Preparation Course](https://www.udemy.com/unitycert?couponCode=GitHubDiscount).
